@@ -19,6 +19,6 @@ parser.py: The parser developed is prepared to read an HTML exported from ELAN w
 RunPythonScripts.cs: The python scripts to be saved in a folder "PythonScripts" within the Unity Assets folder. The output from the the parser.py will also be saved in this same folder. The sigml output will be also be saved within the Unity Assets folder, but in the folder "SiGML_Files". 
 
 
-For a more detailed description: https://www.aclweb.org/anthology/2020.lrec-1.739/
+
 
 

@@ -1,8 +1,7 @@
 
 
 Requirements:
-*python 3.7.3
-
+*python 3.7 +
 
 Our tool receives HamNoSys symbols. Optionally, the user can also provide their respective glosses. If so, the number of glosses must be equal to the number of HamNoSys symbols. The input must be identified by their quotes.
 
@@ -21,4 +20,5 @@ RunPythonScripts.cs: The python scripts to be saved in a folder "PythonScripts" 
 
 
 For a more detailed description: https://www.aclweb.org/anthology/2020.lrec-1.739/
+
 
